@@ -1,0 +1,19 @@
+{
+    "clickhouse": {
+        "url": "http://somehost",
+        "port": 8123,
+        "user": "default",
+        "pwd": "pwd",
+        "time_offset": 10800
+    },
+    "database": {
+        "database_name": "clickhouse_wizard",
+        "host": "host_pg",
+        "port": 5432,
+        "user": "postgres",
+        "pwd": "pwd"
+    },
+    "web_api": {
+        "port": 65035
+    }
+}
