@@ -1,4 +1,4 @@
-Clickhouse maintenance manager
+Clickhouse maintenance manager (For 1C EventsLog)
 
 Наше приложение представляет собой удобное и эффективное средство для обслуживания баз данных ClickHouse. Оно разработано на основе платформы Postgre, что обеспечивает стабильную работу и высокую производительность.
 
